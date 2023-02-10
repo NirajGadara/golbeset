@@ -105,4 +105,19 @@ li{
 .center_image3{
     padding-bottom: 0%;
 }
-
+/*  */
+/*  */
+.header_bottom{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+.bottom_images{
+    display: flex;
+    flex-wrap: inherit;
+    justify-content: center;   
+    justify-content: space-around;
+    padding-inline: 15%; 
+    
+}
